@@ -18,7 +18,7 @@ describe("Instagram Client", function () {
 		it("should return an instance of Instagram", () => {
 			expect(instagram).to.be.an.instanceOf(Instagram);
 		});
-	})
+	});
 
 	describe("getting user id", () => {
 		var user;
