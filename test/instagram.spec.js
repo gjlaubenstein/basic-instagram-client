@@ -4,7 +4,7 @@ var chai = require('chai'),
 	mocha = require('mocha'),
 	Instagram = require('../instagram.js');
 
-var consumer_key = process.env.INSTAGRAM_CONSUMER_KEY;
+var client_key = process.env.INSTAGRAM_CONSUMER_KEY;
 
 describe("Instagram Client", function () {
 	var instagram;
