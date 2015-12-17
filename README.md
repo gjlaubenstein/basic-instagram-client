@@ -1,6 +1,7 @@
 # basic-instagram-client
 [![Build Status](https://travis-ci.org/gjlaubenstein/basic-instagram-client.svg?branch=master)](https://travis-ci.org/gjlaubenstein/basic-instagram-client)
-[![Build Status](https://travis-ci.org/gjlaubenstein/basic-instagram-client.svg?branch=master)](https://travis-ci.org/gjlaubenstein/basic-instagram-client)
+[![Coverage Status](https://coveralls.io/repos/gjlaubenstein/basic-instagram-client/badge.svg?branch=master&service=github)](https://coveralls.io/github/gjlaubenstein/basic-instagram-client?branch=master)
+
 ## Install
 `npm install --save basic-instagram-client`
 
