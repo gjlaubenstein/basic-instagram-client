@@ -1,5 +1,6 @@
 # basic-instagram-client
-
+[![Build Status](https://travis-ci.org/gjlaubenstein/basic-instagram-client.svg?branch=master)](https://travis-ci.org/gjlaubenstein/basic-instagram-client)
+[![Build Status](https://travis-ci.org/gjlaubenstein/basic-instagram-client.svg?branch=master)](https://travis-ci.org/gjlaubenstein/basic-instagram-client)
 ## Install
 `npm install --save basic-instagram-client`
 
