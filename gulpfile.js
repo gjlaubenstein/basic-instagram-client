@@ -3,7 +3,7 @@ var istanbul = require('gulp-istanbul');
 var mocha = require('gulp-mocha');
 
 gulp.task('init-istanbul', function () {
-    return gulp.src(['twitter.js'])
+    return gulp.src(['instagram.js'])
         .pipe(istanbul())
         .pipe(istanbul.hookRequire());
 })
